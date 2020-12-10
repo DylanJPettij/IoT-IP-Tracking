@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: aiocoap
+Version: 0.4b3.post0
+Summary: Python CoAP library
+Home-page: https://github.com/chrysn/aiocoap
+Author: Maciej Wasilak, Christian Amsüss
+Author-email: c.amsuess@energyharvesting.at
+License: MIT
+Description: UNKNOWN
+Keywords: coap,asyncio,iot
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: AsyncIO
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6.9
+Provides-Extra: all
+Provides-Extra: docs
+Provides-Extra: linkheader
+Provides-Extra: oscore
+Provides-Extra: prettyprint
+Provides-Extra: tinydtls
+Provides-Extra: ws
